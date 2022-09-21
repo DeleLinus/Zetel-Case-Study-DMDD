@@ -38,6 +38,7 @@ Zetel is a mobile phone company with a number of phones that are sold by staff t
 The database contains seven (7) tables with many columns of data about Zetel Customers, Staffs, Infrastructures, services and its usage. The database nodel is as shown below:
 ![Screenshot (293)](https://user-images.githubusercontent.com/58152694/191609297-a0f9a135-9f76-4af1-b801-10474dcbeb20.png)
 
+All Queries are available in the [script file](https://github.com/DeleLinus/Zetel-Case-Study-DMDD-/blob/master/answers_script.sql). and the queries and results compiled in the uploaded document file
 <a name="qss"></a>
 # Questions Explored
 1. List the total number of connections made.
@@ -74,7 +75,6 @@ Q-16
 Q-14a and Q14b
 ![Screenshot (295)](https://user-images.githubusercontent.com/58152694/191615405-53f9e82d-2932-445c-91ab-6307658648f9.png)
 
-All Queries are available in the script file. and the queries and results compiled in the uploaded document file
 
 <a name="ref"></a>
 # Acknowledgements
